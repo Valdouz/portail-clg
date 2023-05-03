@@ -1,3 +1,5 @@
+## Moved to [School button](https://github.com/Valdouz/School-buttons)
+
 # School redirection buttons
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://fr.wikipedia.org/wiki/Html) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://fr.wikipedia.org/wiki/JavaScript) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://fr.wikipedia.org/wiki/css)
